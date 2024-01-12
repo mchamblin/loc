@@ -1,3 +1,13 @@
+body {
+  background: linear-gradient(145deg,#0d47a1,#42a5f5);
+}
+h1 {
+  text-align:center;
+  color: white;
+  font-weight: 100;
+  padding-bottom: 20px;
+  font-size: 2rem;
+}
 .accordion-button {
   font-weight: bold;
 }
@@ -16,13 +26,18 @@
   border-left-width: 0;
   font-style: italic;
   word-wrap: break-word;
-  padding-left: 28px;
+  padding-left: 22px;
+  background-color: #cfe2ff4f;
+  line-height: 20px;
+  padding-top: 13px;
+  padding-bottom: 13px;
 }
 .list-group-item:last-child {
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
   border-right-width: 0;
   border-left-width: 0;
+  border-bottom: none;
 }
 
 .sticky {
@@ -33,6 +48,10 @@
 }
 .display-1 {
   text-align: center;
+  color: white;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: medium;
 }
 button:focus {
   outline: none !important;
