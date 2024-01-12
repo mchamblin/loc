@@ -1,2 +1,3 @@
 # Language of Compassion
-## Needs and Feelings
+## Feelings
+## Needs
