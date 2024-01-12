@@ -46,7 +46,9 @@ h1 {
   border-left-width: 0;
   border-bottom: none;
 }
-
+.selected {
+  background-color: #f8f9fa;
+}
 .sticky {
   position: sticky;
   top: 0;
